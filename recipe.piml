@@ -1,0 +1,4 @@
+(name) atlas.ip
+(version) 0.1.0
+(description) Fast, minimal tool to fetch your local and public IP address with geolocation data.
+(license) MIT
